@@ -195,6 +195,39 @@
         </tr>
     </tbody>
 </table>
+<table>
+    <thead>
+        <tr>
+            <th>Udemy</th>
+            <th>Coursera</th>
+            <th>Edureka</th>
+            <th>W3Schools</th>
+            <th>Programiz Pro</th>
+            <th>CodeHELP</th>
+            <th>Codecademy</th>
+            <th>CodeWithHarry</th>
+            <th>Stack Overflow</th>
+            <th>HackerEarth</th>
+            <th>FreeCodeCamp</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://cdn.worldvectorlogo.com/logos/udemy-3.svg" width="50" height="50"></td>
+            <td><img src="https://www.svgrepo.com/show/353608/coursera.svg" width="60" height="80"></td>
+            <td><img src="https://asset.brandfetch.io/idKX5l2e0B/idscnBB9tG.jpeg?updated=1709881686529" width="40" height="40"></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj8Tiz2k7JqwyjLODLrHA0T-W6N-13s-lH6sP0sjUuB2xnkNg1z0LbWeyrA&s" width="50" height="50"></td>
+            <td><img src="https://cdn.programiz.com/sites/tutorial2program/files/pc_logo.svg" width="60" height="65"></td>
+            <td><img src="https://www.codehelp.in/_next/image?url=%2Fassets%2FCommon%2FWhitelogoGIF.gif&w=256&q=75" width="100" height="30"></td>
+            <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-codecademy-282922.png?f=webp&w=256" width="90" height="90"></td>
+            <td><h4>CODE WITH HARRY</h4></td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="50" height="50"></td>
+            <td><img src="https://cdn.hackerearth.com/newton/static/images/he-header-logo.svg" width="100" height="40"></td>
+            <td><img src="https://img.icons8.com/?size=48&id=x8AiShN0BsFX&format=png" width="40" height="40"></td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 
