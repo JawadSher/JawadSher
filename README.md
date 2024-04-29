@@ -62,6 +62,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadsher&theme=dark" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/sammorozov/sammorozov/0cc8dd58f3d001080d4f1d9df20010d6342d3da5/assets/github-snake.svg" alt="Animated SVG">
+</div>
 
 
 
