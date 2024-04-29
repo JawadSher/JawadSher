@@ -77,6 +77,7 @@
       <tr>
         <th>HTML</th>
         <th>CSS</th>
+        <th>Tailwind CSS</th>
         <th>JavaScript</th>
         <th>C++</th>
         <th>Python</th>
@@ -91,6 +92,7 @@
       <tr>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></td>
+        <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"></td>
@@ -168,29 +170,32 @@
             <th>Hack The Box</th>
             <th>PicoCTF</th>
             <th>Cybrary</th>
-            <th>CyberPatriot</th>
             <th>OverTheWire</th>
-            <th>RootMe</th>
+            <th>Root-Me</th>
             <th>VulnHub</th>
-            <th>CyberSecLabs</th>
             <th>CTF365</th>
+            <th>Blue Team Labs</th>
+          <th>CTF Time.org</th>
+          <th>Hacker 1O1</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src="https://tryhackme.com/img/favicon/android-chrome-192x192.png" width="40" height="40"></td>
-            <td><img src="https://www.hackthebox.eu/bundles/hacktheboxfrontend/logo_white.svg" width="40" height="40"></td>
-            <td><img src="https://picoctf.com/resources/img/pico_logo.svg" width="40" height="40"></td>
-            <td><img src="https://cybrary.it/wp-content/themes/cybrary/static/images/logo.svg" width="40" height="40"></td>
-            <td><img src="https://www.uscyberpatriot.org/c/1/images/uscp_logo.png" width="40" height="40"></td>
-            <td><img src="https://overthewire.org/assets/logo.png" width="40" height="40"></td>
-            <td><img src="https://www.root-me.org/IMG/png/site.png" width="40" height="40"></td>
-            <td><img src="https://www.vulnhub.com/resources/img/vulnhub-logo.svg" width="40" height="40"></td>
-            <td><img src="https://cyberseclabs.co.uk/wp-content/uploads/2021/10/CSL_Logo_Text-1.png" width="40" height="40"></td>
-            <td><img src="https://ctf365.com/assets/images/logo.png" width="40" height="40"></td>
+            <td><img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="100" height="100"></td>
+            <td><img src="https://www.hackthebox.com/images/logo-htb.svg" width="100" height="100"></td>
+            <td><img src="https://picoctf.org/img/logos/picoctf-logo-horizontal-white.svg" width="100" height="100"></td>
+            <td><img src="https://assets-global.website-files.com/63eef15e3ff8fd318e9a6888/6459f4a5613941f629069dc2_Logo-Full-White.svg" width="100" height="100"></td>
+            <td><h4>OVER THE WIRE</h4></td>
+            <td><img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" width="100" height="100"></td>
+            <td><img src="https://www.vulnhub.com/static/img/logo.svg" width="100" height="100"></td>
+            <td><img src="https://ctf365.com/assets/207c52f4f77a18010a6bab48283051dc.png" width="130" height="30"></td>
+            <td><img src="https://blueteamlabs.online/landpage/images/500_x_500_Logo_White_Border.png" width="100" height="50" ></td>
+          <td><img src="https://ctftime.org/static/images/ct/logo.svg" width="100" height="100" ></td>
+          <td><img src="https://www.hacker101.com/assets/Hacker101_logo.png" width="120" height="30" ></td>
         </tr>
     </tbody>
 </table>
+
 
 
 </div>
