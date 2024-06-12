@@ -1,11 +1,10 @@
 ![Heading](https://camo.githubusercontent.com/4052adea05ff86d2363c8509099905444637394b603a684f544b5d89d344f362/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966)
 <h1 align="center">Hi 👋, I'm JAWAD SHER</h1>
 <h3 align="center">Penetration Testser | Cyber Security Student | RED Teamer | CTF's Player at THM-HTB | Full Stack Developer | Programmer | Computer Science Student</h3>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&random=false&width=600&lines=I+am+JAWADSHER+from+PAKISTAN;Inspired+by+Cyber+Security;Currently+Learning+Cyber+Security+-+Penetration+Testing;Participating+in+Capture+the+Flag+at+THM+-+HTB;Developing+Full+Stack+Web+Applications;Mastering+Programming+and+Computer+Networking;Advancing+in+DSA+with+C%2B%2B+Programming" alt="Typing SVG" />
-</a>
 
-
+<div align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=800&size=25&pause=1000&color=F73C07&random=false&width=800&lines=Skilled+in+Python%2C+C%2B%2B%2C+JavaScript%2C+and+SQL.;Student+in+cybersecurity+and+penetration+testing.;CTF+Player+at+TryHackMe%2C+HackTheBox%2C+PicoCTF.....;Full+Stack+Web+Application+Developer.;Exploring+Data+Structures+%26+Algorithms+in+C%2B%2B.;Interested+prompt+and+AI+engineering.;Interested+In+Gaming+Community.;Exploring+Physics%2C+Mathematics+%26+Astro-Physics.)](https://git.io/typing-svg">
+</div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jawadsher&label=Profile%20views&color=0e75b6&style=flat" alt="jawadsher" />
