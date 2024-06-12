@@ -1,8 +1,22 @@
 ![Heading](https://camo.githubusercontent.com/4052adea05ff86d2363c8509099905444637394b603a684f544b5d89d344f362/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966)
 <h1 align="center">Hi 👋, I'm JAWAD SHER</h1>
 <h3 align="center">Penetration Testser | Cyber Security Student | RED Teamer | CTF's Player at THM-HTB | Full Stack Developer | Programmer | Computer Science Student</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72A7FF9C&random=false&width=435&lines=I+am+JAWADSHER+from+PAKISTAN;Inspired+from+Cyber+Security+;Right+now+I+am+Learning+;Cyber+Security+-+Penetration+Testing;Capture+the+Flag+at+THM+-+HTB;Full+Stack+Web+Application+Development;Programming+%2B+Computer+Networking;DSA+in+C%2B%2B+Programming" alt="Typing SVG" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadsher&label=Profile%20views&color=0e75b6&style=flat" alt="jawadsher" /> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6B6B&random=false&width=600&lines=I+am+JAWADSHER+from+PAKISTAN;Inspired+by+Cyber+Security;Currently+Learning+Cyber+Security+-+Penetration+Testing;Participating+in+Capture+the+Flag+at+THM+-+HTB;Developing+Full+Stack+Web+Applications;Mastering+Programming+and+Computer+Networking;Advancing+in+DSA+with+C%2B%2B+Programming" alt="Typing SVG" />
+</a>
+
+
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=jawadsher&label=Profile%20views&color=0e75b6&style=flat" alt="jawadsher" />
+  <img src="https://img.shields.io/github/last-commit/JawadSher/JawadSher?style=flat-square">
+  <img src="https://img.shields.io/github/contributors/JawadSher/JawadSher?style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/JawadSher/JawadSher?style=flat-square">
+  <img src="https://img.shields.io/github/license/JawadSher/JawadSher?style=flat-square">
+  <img src="https://img.shields.io/github/stars/JawadSher/JawadSher?style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=JawadSher&label=Views&color=blueviolet&style=flat-square">
+  <img src="https://img.shields.io/github/forks/JawadSher/JawadSher?style=flat-square">
+</p>
 
 
 - 🔭 I’m currently working on **Learning Full Stack WEB Application Development**
