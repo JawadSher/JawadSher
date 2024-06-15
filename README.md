@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/github/last-commit/JawadSher/JawadSher?style=flat-square">
   <img src="https://img.shields.io/github/contributors/JawadSher/JawadSher?style=flat-square">
   <img src="https://img.shields.io/github/repo-size/JawadSher/JawadSher?style=flat-square">
-  <img src="https://img.shields.io/github/license/JawadSher/JawadSher?style=flat-square">
   <img src="https://img.shields.io/github/stars/JawadSher/JawadSher?style=flat-square">
   <img src="https://komarev.com/ghpvc/?username=JawadSher&label=Views&color=blueviolet&style=flat-square">
   <img src="https://img.shields.io/github/forks/JawadSher/JawadSher?style=flat-square">
