@@ -3,7 +3,7 @@
 <h3 align="center">Penetration Testser | Cyber Security Student | RED Teamer | CTF's Player at THM-HTB | Full Stack Developer | Programmer | Computer Science Student</h3>
 
 <div align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=800&size=25&pause=1000&color=F73C07&random=false&width=800&lines=Skilled+in+Python%2C+C%2B%2B%2C+JavaScript%2C+and+SQL.;Student+in+cybersecurity+and+penetration+testing.;CTF+Player+at+TryHackMe%2C+HackTheBox%2C+PicoCTF.....;Full+Stack+Web+Application+Developer.;Exploring+Data+Structures+%26+Algorithms+in+C%2B%2B.;Interested+prompt+and+AI+engineering.;Interested+In+Gaming+Community.;Exploring+Physics%2C+Mathematics+%26+Astro-Physics.)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=800&size=25&pause=1000&color=F73C07&random=false&width=800&lines=Skilled+in+Python%2C+C%2B%2B%2C+JavaScript%2C+and+SQL.;Student+in+cybersecurity+and+penetration+testing.;CTF+Player+at+TryHackMe%2C+HackTheBox%2C+PicoCTF.....;Full+Stack+Web+Application+Developer.;Exploring+Data+Structures+%26+Algorithms+in+C%2B%2B.;Interested+prompt+and+AI+engineering.;Interested+In+Gaming+Community.;Exploring+Physics%2C+Mathematics+%26+Astro-Physics.">
 </div>
 
 <p align="center"> 
