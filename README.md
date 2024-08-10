@@ -41,7 +41,10 @@
 </div>
 <p></p>
 
+<p align='center'>
+  
 <img width="800" height="350" align="center" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
