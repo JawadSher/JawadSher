@@ -217,7 +217,8 @@
     </tbody>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JawadSher&bg_color=1b2831&color=f3f1f3&line=4c9e83&point=18cb15&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JawadSher github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JawadSher&bg_color=1b2831&color=f3f1f3&line=4c9e83&point=18cb15&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
   <h2>Top Languages</h2>
@@ -239,7 +240,7 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/sammorozov/sammorozov/0cc8dd58f3d001080d4f1d9df20010d6342d3da5/assets/github-snake.svg" alt="Animated SVG">
+  <img src='https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg'>
 </div>
 
 
