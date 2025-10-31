@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAWAD SHER</h1>
 <h3 align="center">Full Stack Web Developer | Penetration Testser | CTF's Player at THM-HTB-PICO-OTW</h3>
 
-<div align='right'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=87CEEB&random=false&width=800&lines=Skilled+in+Python%2C+C%2B%2B%2C+JavaScript%2C+and+SQL.;Student+of+Cybersecurity+and+Penetration+Testing.;CTF+Player+at+TryHackMe%2C+HackTheBox%2C+and+PicoCTF.;Full+Stack+Web+Application+Developer.;Exploring+Data+Structures+%26+Algorithms+in+C%2B%2B.;Passionate+about+Prompt+and+AI+Engineering.;Active+in+the+Gaming+Community.;Exploring+Physics%2C+Mathematics%2C+and+Astrophysics.">
-</div>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=jawadsher&label=Profile%20views&color=0e75b6&style=flat" alt="jawadsher" />
   <img src="https://img.shields.io/github/last-commit/JawadSher/JawadSher?style=flat-square">
@@ -15,26 +11,22 @@
   <img src="https://img.shields.io/github/forks/JawadSher/JawadSher?style=flat-square">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=900&size=28&pause=1000&color=EFB442&center=false&vCenter=false&width=1000&lines=Hi!+I'm+Glad+You're+Here;Welcome+to+My+Tech+Playground;Exploring+Code%2C+Security+%26+Innovation;Feel+Free+to+Explore+My+Projects;Let's+Connect+%26+Collaborate)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Learning Full Stack WEB Application Development**
+### 👋 About Me
 
-- 🌱 I’m currently learning **Full Stack Web Application Development | C++ DSA | Cyber Security**
+* 🔭 Working as a **Full Stack Web Developer** at [**streamX**](https://strmx.fun)
+* 🌱 Experianced in **C++**, **DSA**, **Full Stack Development**, and **Cyber Security**
+* 👯 Open to collaborate with **Developers**, **Programmers**, and **Penetration Testers**
+* 💡 Passionate about building **secure**, **scalable**, and **modern web applications**
+* ☁️ Experienced with **AWS**, **Docker**, **Vercel**, and **CI/CD automation**
+* 🔐 Skilled in **NextAuth**, **Cloudflare**, **Arcjet**, and **API security**
+* 🧠 Strong in **React**, **Next.js**, **Nest.js**, **Node.js**, **GraphQL**, **MongoDB**, and **Redis**
+* 👨‍💻 All projects available at [**GitHub**](https://github.com/JawadSher)
+* 📝 I write on [**Replit**](https://replit.com/@jawadsher04)
+* 💬 Ask me about **Web Development**, **Cyber Security**, or **Programming**
+* ⚡ Fun fact: **The world is round and flat concurrently** 🌍
 
-- 👯 I’m looking to collaborate on **Penetration Testers | Programmers | Developers**
-
-- 🤝 I’m looking for help with **Nothing**
-
-- 👨‍💻 All of my projects are available at [https://github.com/JawadSher](https://github.com/JawadSher)
-
-- 📝 I regularly write articles on [https://replit.com/@jawadsher04](https://replit.com/@jawadsher04)
-
-- 💬 Ask me about **Cyber Security | Programming | Web Development**
-
-- 📫 How to reach me **jawadsher05@gmail.com**
-
-- ⚡ Fun fact **World is round and flat concurrently.**
-
-  <!-- Profile Trophy -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jawadsher&theme=juicyfresh&no-frame=true&margin-w=30&margin-h=30"/>
 </div>
@@ -60,13 +52,10 @@
         <th>CSS</th>
         <th>Tailwind CSS</th>
         <th>JavaScript</th>
+        <th>Typescript</th>
         <th>C++</th>
         <th>Python</th>
-        <th>Rust</th>
-        <th>PHP</th>
         <th>SQL</th>
-        <th>Golang</th>
-        <th>Ruby</th>
       </tr>
     </thead>
     <tbody>
@@ -75,13 +64,10 @@
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></td>
         <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"></td>
+         <td><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" width="100" height="100"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"></td>
-        <td><img src="https://www.svgrepo.com/show/376347/rust.svg" width="60" height="60"></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"></td>
         <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"></td>
-        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"></td>
       </tr>
     </tbody>
   </table>
@@ -91,33 +77,19 @@
     <thead>
         <tr>
             <th>React</th>
-            <th>Laravel</th>
-            <th>Vue.Js</th>
             <th>Express.Js</th>
-            <th>Django</th>
-            <th>Ruby on Rails</th>
-            <th>Flask</th>
             <th>Next.js</th>
+           <th>Nest.js</th>
             <th>Node.js</th>
-            <th>MySQL</th>
-            <th>MongoDB</th>
-            <th>Microsoft SQL Server</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"></td>
-            <td><img src="https://img.icons8.com/?size=64&id=hUvxmdu7Rloj&format=png" width="40" height="40"></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"></td>
             <td><img src="https://img.icons8.com/?size=64&id=2ZOaTclOqD4q&format=png" width="40" height="40"></td>
-            <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/zeit/zeit-icon.svg" width="40" height="40"></td>
+          <td><img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21~bgwhite.svg" width="80" height="80"></td>
+            <td><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width="80" height="80"></td>
             <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"></td>
-            <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"></td>
-            <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"></td>
         </tr>
     </tbody>
 </table>
@@ -127,23 +99,15 @@
     <thead>
         <tr>
             <th>Windows</th>
-            <th>macOS</th>
             <th>Linux</th>
             <th>Ubuntu</th>
-            <th>CentOS</th>
-            <th>Debian</th>
-            <th>Unix</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_microsoft_windows-512.png" width="40" height="40"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" width="40" height="40"></td>
             <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40"></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="40" height="40"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="40" height="40"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="40" height="40"></td>
-            <td><img src="https://img.icons8.com/?size=48&id=17851&format=png" width="40" height="40"></td>
         </tr>
     </tbody>
 </table>
@@ -206,7 +170,7 @@
             <td><img src="https://asset.brandfetch.io/idKX5l2e0B/idscnBB9tG.jpeg?updated=1709881686529" width="40" height="40"></td>
             <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBj8Tiz2k7JqwyjLODLrHA0T-W6N-13s-lH6sP0sjUuB2xnkNg1z0LbWeyrA&s" width="50" height="50"></td>
             <td><img src="https://cdn.programiz.com/sites/tutorial2program/files/pc_logo.svg" width="60" height="65"></td>
-            <td><img src="https://www.codehelp.in/_next/image?url=%2Fassets%2FCommon%2FWhitelogoGIF.gif&w=256&q=75" width="100" height="30"></td>
+            <td><img src="https://www.codehelp.in/_next/image?url=https%3A%2F%2Fcdn.codehelp.in%2Fassets%2FCommon%2FWhitelogoGIF.gif&w=640&q=75" width="100" height="30"></td>
             <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-codecademy-282922.png?f=webp&w=256" width="90" height="90"></td>
             <td><h4>CODE WITH HARRY</h4></td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="50" height="50"></td>
