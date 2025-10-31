@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JAWAD SHER</h1>
-<h3 align="center">Penetration Testser | Cyber Security Student | RED Teamer | CTF's Player at THM-HTB | Full Stack Developer | Programmer | Computer Science Student</h3>
+<h3 align="center">Full Stack Web Developer | Penetration Testser | CTF's Player at THM-HTB-PICO-OTW</h3>
 
 <div align='right'>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=87CEEB&random=false&width=800&lines=Skilled+in+Python%2C+C%2B%2B%2C+JavaScript%2C+and+SQL.;Student+of+Cybersecurity+and+Penetration+Testing.;CTF+Player+at+TryHackMe%2C+HackTheBox%2C+and+PicoCTF.;Full+Stack+Web+Application+Developer.;Exploring+Data+Structures+%26+Algorithms+in+C%2B%2B.;Passionate+about+Prompt+and+AI+Engineering.;Active+in+the+Gaming+Community.;Exploring+Physics%2C+Mathematics%2C+and+Astrophysics.">
