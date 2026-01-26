@@ -146,8 +146,7 @@
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-339933?style=for-the-badge&logo=supabase&logoColor=white)
 
 </details>
 
