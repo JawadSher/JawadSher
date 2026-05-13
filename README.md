@@ -11,7 +11,10 @@
   <a href="https://github.com/JawadSher">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
   </a>
-  
+
+  <a href="https://medium.com/@jawadsher">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+</a>
   <!-- YouTube -->
   <a href="https://youtube.com/@jawad_sher">
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"/>
@@ -42,7 +45,7 @@
   </a>
 
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1wQb4gvg_E9BNAWCehWaXpNR0IpUDarLr/view?usp=drivesdk">
+  <a href="https://drive.google.com/file/d/10ciUH41ho6t6ZQYCYqLoJrypBA9j2xp_/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Resume-0A66C2?style=flat-square&logo=Adobe&logoColor=white" alt="Resume"/>
   </a>
   
@@ -66,61 +69,104 @@
 
 
 ### 👋 About Me
-
-* 🔭 Working as a **Full Stack Web Developer** at [**streamX**](https://strmx.fun)
-* 🌱 Experianced in **C++**, **DSA**, **Full Stack Development**, and **Cyber Security**
+* 🌱 Experienced in **Full Stack Development**, and **Cyber Security**
+* 🛡️ Solved **300+ labs on TryHackMe** and challenges on **PicoCTF** and other CTF platforms
 * 👯 Open to collaborate with **Developers**, **Programmers**, and **Penetration Testers**
-* 💡 Passionate about building **secure**, **scalable**, and **modern web applications**
+* 🧠 Strong in **React**, **Next.js**, **Nest.js**, **Node.js**, **GraphQL**, **MongoDB**, and **Redis**
 * ☁️ Experienced with **AWS**, **Docker**, **Vercel**, and **CI/CD automation**
 * 🔐 Skilled in **NextAuth**, **Cloudflare**, **Arcjet**, and **API security**
-* 🧠 Strong in **React**, **Next.js**, **Nest.js**, **Node.js**, **GraphQL**, **MongoDB**, and **Redis**
+* 💡 Passionate about building **secure**, **scalable**, and **modern web applications**
 * 👨‍💻 All projects available at [**GitHub**](https://github.com/JawadSher)
-* 📝 I write on [**Replit**](https://replit.com/@jawadsher04)
+* 📝 I write on [**Replit**](https://replit.com/@jawadsher04) & [**Medium**](https://medium.com/@jawadsher)
 * 💬 Ask me about **Web Development**, **Cyber Security**, or **Programming**
-* ⚡ Fun fact: **The world is round and flat concurrently** 
+* ⚡ Fun fact: **The world is round and flat concurrently**
+  
+## 🚀 Signature Projects
 
-## 💼 Professional Experience
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top" align="left">
+### 🎬 [streamX](https://strmx.fun) &nbsp;·&nbsp; Cloud-Native Video Streaming Platform
 
-### 🏢 Full Stack Developer
-**streamX** • *Current*
+*A production-grade, full-stack video streaming platform built to handle real-world scale — from secure uploads to adaptive playback, with a fully custom dashboard, creator tools, and enterprise-level security baked in.*
 
-- Developing **scalable web applications** with **React** & **Next.js**
-- Architecting **front-end and back-end solutions** for high-performance platforms
-- Implementing secure **authentication flows** with **NextAuth** & **OAuth**
-- Designing & maintaining **GraphQL** & **REST APIs**
-- Managing cloud infrastructure on **AWS**, **Vercel**, and **Docker**
-- Optimizing performance with **Redis caching** and database indexing
-- Automating deployments with **CI/CD pipelines**
-- Mentoring junior developers and performing **code reviews**
-- Collaborating with cross-functional teams to deliver **user-centered solutions**
-- Writing **technical documentation** and API guides
-- Integrating **third-party services** and payment gateways
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_&_More-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=auth0&logoColor=white)
+![Arcjet](https://img.shields.io/badge/Arcjet-FF4154?style=flat-square&logo=arcjet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-</td>
-<td width="50%" valign="top" align="left">
+</div>
 
-### 🔐 Penetration Tester
-**Independent** • *Ongoing*
+---
 
-- Performing **web application penetration tests** and detailed vulnerability assessments
-- Active participant on **TryHackMe**, **Hack The Box**, and **OverTheWire**
-- Competing in **CTF competitions** (PicoCTF, CTF365) to sharpen **offensive security skills**
-- Researching, documenting, and reporting **vulnerabilities** and exploitation techniques
-- Advising on **security best practices** for web applications, APIs, and networks
-- Conducting detailed **remediation reports** for clients and projects
-- Exploring **network security, cryptography, and system hardening**
-- Contributing to **open-source security tools** and write-ups
-- Staying updated with the latest **cybersecurity trends and exploits**
-- Performing **social engineering simulations** and phishing awareness campaigns
-- Collaborating with other security professionals to improve **enterprise security posture**
+<div align="center">
 
-</td>
-</tr>
-</table>
+### 💬 [ChitChaat](https://chitchaat-two.vercel.app) &nbsp;·&nbsp; Real-Time Chat & Video Calling App
+
+*A modern, full-featured chat application with real-time messaging, voice/video calling, file sharing, and a clean responsive UI — built with a focus on low-latency communication and seamless user experience.*
+
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-E8005D?style=flat-square&logo=livekit&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔐 Cybersecurity & Pentesting &nbsp;·&nbsp; Hands-On Security Practice
+
+*Not just theory — real labs, real exploits, real experience. With 300+ labs on TryHackMe and active practice across multiple platforms, I approach security from both the offensive and defensive side.*
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe_300+_Labs-212C42?style=flat-square&logo=tryhackme&logoColor=red)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+![PicoCTF](https://img.shields.io/badge/PicoCTF-003865?style=flat-square&logo=picoctf&logoColor=white)
+![OverTheWire](https://img.shields.io/badge/OverTheWire-35495E?style=flat-square&logo=linux&logoColor=white)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Blue Teams Labs](https://img.shields.io/badge/Blue_Teams_Labs-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![CTF](https://img.shields.io/badge/CTF_Competitions-8B0000?style=flat-square&logo=hackthebox&logoColor=white)
+
+> 🛡️ Covers **Web App Pentesting**, **Network Security**, **Cryptography**, **OSINT**, and **System Hardening**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧩 Competitive Programming &nbsp;·&nbsp; Problem Solving Practice
+
+*Consistency over shortcuts. I regularly grind algorithmic problems to keep my problem-solving sharp — because writing good code starts with thinking clearly.*
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)
+
+> 🧠 **230+ problems** solved · Strong in **DSA**, **Algorithms**, and **C++ Optimization**
+
+</div>
+
+---
 
 ### 💻 Tech Stack & Skills
 
@@ -246,19 +292,63 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jawadsher&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jawadsher&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadsher&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jawadsher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jawadsher&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadsher&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=ffffff" alt="GitHub Streak"/>
+
+</div>
 
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadsher&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jawadsher&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&area_color=00d9ff&hide_border=true" width="100%"/>
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jawadsher&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+
+</div>
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawadsher/jawadsher/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawadsher/jawadsher/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/jawadsher/jawadsher/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+
+## 📦 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jawadsher&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jawadsher&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jawadsher&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jawadsher&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jawadsher&theme=tokyonight&utcOffset=5"/>
+
+</div>
 
 
 ## 💬 Let's Connect
