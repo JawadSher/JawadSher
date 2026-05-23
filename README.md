@@ -82,6 +82,44 @@
 * ⚡ Fun fact: **The world is round and flat concurrently**
   
 ## 🚀 Signature Projects
+<div align="center">
+
+### 📄 [PaperStack Web](https://paper-stack-web.vercel.app) &nbsp;·&nbsp; Past Year Exam Papers Platform for Pakistani Students
+
+*A full-stack web platform and admin console for Pakistani board students to browse, search, and download past year exam papers — with board/class/subject filtering, PDF preview, a smart common questions analyzer, and a protected admin dashboard for content management.*
+
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📱 [PaperStack](https://github.com/JawadSher/Paper-Stack) &nbsp;·&nbsp; Mobile App for Past Year Exam Papers
+
+*The mobile counterpart to PaperStack Web — a cross-platform React Native app for Pakistani students to browse, search, and download past year exam papers on the go, with offline access, board/class/subject filtering, and a smart common questions analyzer.*
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -365,7 +403,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jawad_sher)
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.mananonymous)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Available-green?style=for-the-badge)](mailto:jawadsher05@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1wQb4gvg_E9BNAWCehWaXpNR0IpUDarLr/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/10ciUH41ho6t6ZQYCYqLoJrypBA9j2xp_/view?usp=sharing)
 <br/>
 
 ### 📧 Open for opportunities in:
