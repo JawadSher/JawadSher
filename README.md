@@ -45,7 +45,7 @@
   </a>
 
   <!-- Resume -->
-  <a href="https://drive.google.com/file/d/10ciUH41ho6t6ZQYCYqLoJrypBA9j2xp_/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1-xqx5byN6sdm1LOeYbX6SIUWnVWCB_LZ/view?usp=drive_link">
     <img src="https://img.shields.io/badge/-Resume-0A66C2?style=flat-square&logo=Adobe&logoColor=white" alt="Resume"/>
   </a>
   
@@ -403,7 +403,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jawad_sher)
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.mananonymous)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Available-green?style=for-the-badge)](mailto:jawadsher05@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/10ciUH41ho6t6ZQYCYqLoJrypBA9j2xp_/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1-xqx5byN6sdm1LOeYbX6SIUWnVWCB_LZ/view?usp=drive_link)
 <br/>
 
 ### 📧 Open for opportunities in:
